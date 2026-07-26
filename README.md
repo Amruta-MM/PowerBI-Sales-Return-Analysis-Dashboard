@@ -45,11 +45,11 @@ Sample Superstore Dataset
 
 ### Sales Analysis Dashboard
 
-![Sales Dashbord](Sales Dashbord.png)
+![Sales Dashboard](Sales%20Dashbord.png)
 
 ### Return Analysis Dashboard
 
-![Return Dashbord](Return Dashbord.png)
+![Return Dashboard](Return%20Dashbord.png)
 
 ## Files Included
 
