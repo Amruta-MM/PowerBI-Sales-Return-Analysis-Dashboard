@@ -41,6 +41,15 @@ The Return Analysis dashboard provides insights into:
 ## Dataset
 
 Sample Superstore Dataset
+## Dashboard Preview
+
+### Sales Analysis Dashboard
+
+![Sales Dashboard](Sales Dashboard.png)
+
+### Return Analysis Dashboard
+
+![Return Dashboard](Return Dashboard.png)
 
 ## Files Included
 
